@@ -3,3 +3,6 @@ __pycache__/
 .pytest_cache/
 *.py[cod]
 result.xml
+.coverage
+coverage.xml
+.scannerwork/
